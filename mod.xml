@@ -1,0 +1,6 @@
+<Mod
+	name="Legacy loadout"
+	description="Start the run with the legacy loadout: Spark Bolts, Bomb, and a Water Flask."
+	request_no_api_restrictions="0"
+> 
+</Mod>
